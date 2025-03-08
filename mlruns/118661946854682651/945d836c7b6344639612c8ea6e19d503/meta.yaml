@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/945d836c7b6344639612c8ea6e19d503/artifacts
+deleted_time: 1741473127083
+end_time: 1741472092709
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: 945d836c7b6344639612c8ea6e19d503
+run_name: Logistic Regression
+run_uuid: 945d836c7b6344639612c8ea6e19d503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741472087027
+status: 3
+tags: []
+user_id: USUARIO
