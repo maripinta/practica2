@@ -1,9 +1,16 @@
 artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/739411ab0ff14d8280873bfc41ffce62/artifacts
+<<<<<<< HEAD
 deleted_time: 1741474249889
 end_time: 1741446977761
 entry_point_name: ''
 experiment_id: '418669277510203766'
 lifecycle_stage: deleted
+=======
+end_time: 1741446977761
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+>>>>>>> ddf9606ce16e5023f9efc9d09e1769e4c3810ce4
 run_id: 739411ab0ff14d8280873bfc41ffce62
 run_name: Random Forest
 run_uuid: 739411ab0ff14d8280873bfc41ffce62
