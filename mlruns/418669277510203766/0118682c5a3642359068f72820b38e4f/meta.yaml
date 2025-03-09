@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/0118682c5a3642359068f72820b38e4f/artifacts
+end_time: 1741523819935
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 0118682c5a3642359068f72820b38e4f
+run_name: KNN
+run_uuid: 0118682c5a3642359068f72820b38e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741523808409
+status: 3
+tags: []
+user_id: USUARIO
