@@ -1,0 +1,9 @@
+digest: ad24a792
+name: dataset
+profile: '{"features_shape": [2442, 65], "features_size": 158730, "features_nbytes":
+  1269840}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 65]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "USUARIO", "mlflow.source.name": "C:\\Users\\USUARIO\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

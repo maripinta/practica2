@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/fdb51189db3f44b89da56f3523144dcc/artifacts
+deleted_time: 1741481940744
+end_time: 1741481420084
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: fdb51189db3f44b89da56f3523144dcc
+run_name: big-tern-361
+run_uuid: fdb51189db3f44b89da56f3523144dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741481390334
+status: 3
+tags: []
+user_id: USUARIO

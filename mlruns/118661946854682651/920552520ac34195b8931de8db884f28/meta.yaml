@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/920552520ac34195b8931de8db884f28/artifacts
+deleted_time: 1741484354327
+end_time: 1741483508394
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: 920552520ac34195b8931de8db884f28
+run_name: XGBoost Model
+run_uuid: 920552520ac34195b8931de8db884f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741483508314
+status: 4
+tags: []
+user_id: USUARIO

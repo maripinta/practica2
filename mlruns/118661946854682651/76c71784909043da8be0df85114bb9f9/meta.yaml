@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/76c71784909043da8be0df85114bb9f9/artifacts
+deleted_time: 1741481925675
+end_time: 1741481584577
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: 76c71784909043da8be0df85114bb9f9
+run_name: tasteful-finch-999
+run_uuid: 76c71784909043da8be0df85114bb9f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741481556626
+status: 3
+tags: []
+user_id: USUARIO

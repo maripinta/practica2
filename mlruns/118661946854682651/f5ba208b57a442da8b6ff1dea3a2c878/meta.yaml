@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/f5ba208b57a442da8b6ff1dea3a2c878/artifacts
+deleted_time: 1741481925606
+end_time: 1741479068508
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: f5ba208b57a442da8b6ff1dea3a2c878
+run_name: funny-duck-726
+run_uuid: f5ba208b57a442da8b6ff1dea3a2c878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741479027625
+status: 3
+tags: []
+user_id: USUARIO

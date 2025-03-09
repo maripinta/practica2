@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/09a9184a93c64f37953d49d2428636d2/artifacts
+deleted_time: 1741481925647
+end_time: 1741480871322
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: 09a9184a93c64f37953d49d2428636d2
+run_name: mysterious-mole-401
+run_uuid: 09a9184a93c64f37953d49d2428636d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741480834491
+status: 3
+tags: []
+user_id: USUARIO

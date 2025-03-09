@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/4b7fd654be334b4aa244c0f7e58f06c0/artifacts
+deleted_time: 1741481925682
+end_time: 1741481584577
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: 4b7fd654be334b4aa244c0f7e58f06c0
+run_name: traveling-colt-477
+run_uuid: 4b7fd654be334b4aa244c0f7e58f06c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741481556626
+status: 3
+tags: []
+user_id: USUARIO

@@ -1,0 +1,83 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.9
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.1.4
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 208717
+model_uuid: fd2b053733834e238855ae36121da830
+run_id: 6e81372d3d4f4d26a5c5b48bec435bd9
+signature:
+  inputs: '[{"type": "double", "name": "importe_solicitado", "required": true}, {"type":
+    "double", "name": "duracion_credito", "required": true}, {"type": "double", "name":
+    "personas_a_cargo", "required": true}, {"type": "boolean", "name": "operaciones_ult_12m_15_a_30",
+    "required": true}, {"type": "boolean", "name": "operaciones_ult_12m_30_a_50",
+    "required": true}, {"type": "boolean", "name": "operaciones_ult_12m_50_a_75",
+    "required": true}, {"type": "boolean", "name": "operaciones_ult_12m_75_a_100",
+    "required": true}, {"type": "boolean", "name": "operaciones_ult_12m_mayor_100",
+    "required": true}, {"type": "boolean", "name": "operaciones_ult_12m_menor_15",
+    "required": true}, {"type": "boolean", "name": "gastos_ult_12m_2k_a_4k", "required":
+    true}, {"type": "boolean", "name": "gastos_ult_12m_4k_a_6k", "required": true},
+    {"type": "boolean", "name": "gastos_ult_12m_6k_a_8k", "required": true}, {"type":
+    "boolean", "name": "gastos_ult_12m_8k_a_10k", "required": true}, {"type": "boolean",
+    "name": "gastos_ult_12m_mayor_10k", "required": true}, {"type": "boolean", "name":
+    "gastos_ult_12m_menor_1k", "required": true}, {"type": "boolean", "name": "limite_credito_tc_3k_a_5k",
+    "required": true}, {"type": "boolean", "name": "limite_credito_tc_5k_a_10k", "required":
+    true}, {"type": "boolean", "name": "limite_credito_tc_mayor_10k", "required":
+    true}, {"type": "boolean", "name": "limite_credito_tc_menor_3k", "required": true},
+    {"type": "boolean", "name": "antiguedad_cliente_2y_a_4y", "required": true}, {"type":
+    "boolean", "name": "antiguedad_cliente_mayor_4y", "required": true}, {"type":
+    "boolean", "name": "antiguedad_cliente_menor_2y", "required": true}, {"type":
+    "boolean", "name": "tasa_interes_15p_a_20p", "required": true}, {"type": "boolean",
+    "name": "tasa_interes_7p_a_15p", "required": true}, {"type": "boolean", "name":
+    "tasa_interes_hasta_7p", "required": true}, {"type": "boolean", "name": "tasa_interes_mayor_20p",
+    "required": true}, {"type": "boolean", "name": "ingresos_20k_a_50k", "required":
+    true}, {"type": "boolean", "name": "ingresos_50k_a_100k", "required": true}, {"type":
+    "boolean", "name": "ingresos_hasta_20k", "required": true}, {"type": "boolean",
+    "name": "ingresos_mayor_100k", "required": true}, {"type": "boolean", "name":
+    "pct_ingreso_20_a_40", "required": true}, {"type": "boolean", "name": "pct_ingreso_40_a_60",
+    "required": true}, {"type": "boolean", "name": "pct_ingreso_hasta_20", "required":
+    true}, {"type": "boolean", "name": "pct_ingreso_mayor_60", "required": true},
+    {"type": "boolean", "name": "antiguedad_empleado_5_a_10", "required": true}, {"type":
+    "boolean", "name": "antiguedad_empleado_mayor_10", "required": true}, {"type":
+    "boolean", "name": "antiguedad_empleado_menor_5", "required": true}, {"type":
+    "boolean", "name": "edad_25_a_30", "required": true}, {"type": "boolean", "name":
+    "edad_menor_25", "required": true}, {"type": "boolean", "name": "situacion_vivienda_ALQUILER",
+    "required": true}, {"type": "boolean", "name": "situacion_vivienda_HIPOTECA",
+    "required": true}, {"type": "boolean", "name": "situacion_vivienda_OTROS", "required":
+    true}, {"type": "boolean", "name": "situacion_vivienda_PROPIA", "required": true},
+    {"type": "boolean", "name": "objetivo_credito_EDUCACI\u00d3N", "required": true},
+    {"type": "boolean", "name": "objetivo_credito_INVERSIONES", "required": true},
+    {"type": "boolean", "name": "objetivo_credito_MEJORAS_HOGAR", "required": true},
+    {"type": "boolean", "name": "objetivo_credito_PAGO_DEUDAS", "required": true},
+    {"type": "boolean", "name": "objetivo_credito_PERSONAL", "required": true}, {"type":
+    "boolean", "name": "objetivo_credito_SALUD", "required": true}, {"type": "boolean",
+    "name": "estado_civil_N_C", "required": true}, {"type": "boolean", "name": "estado_civil_N_D",
+    "required": true}, {"type": "boolean", "name": "estado_civil_N_N", "required":
+    true}, {"type": "boolean", "name": "estado_civil_N_S", "required": true}, {"type":
+    "boolean", "name": "estado_credito_N_C", "required": true}, {"type": "boolean",
+    "name": "estado_credito_N_P", "required": true}, {"type": "boolean", "name": "estado_cliente_ACTIVO",
+    "required": true}, {"type": "boolean", "name": "estado_cliente_PASIVO", "required":
+    true}, {"type": "boolean", "name": "genero_F", "required": true}, {"type": "boolean",
+    "name": "genero_M", "required": true}, {"type": "boolean", "name": "nivel_educativo_DESCONOCIDO",
+    "required": true}, {"type": "boolean", "name": "nivel_educativo_POSGRADO_COMPLETO",
+    "required": true}, {"type": "boolean", "name": "nivel_educativo_POSGRADO_INCOMPLETO",
+    "required": true}, {"type": "boolean", "name": "nivel_educativo_SECUNDARIO_COMPLETO",
+    "required": true}, {"type": "boolean", "name": "nivel_educativo_UNIVERSITARIO_COMPLETO",
+    "required": true}, {"type": "boolean", "name": "nivel_educativo_UNIVERSITARIO_INCOMPLETO",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-09 03:44:50.623556'

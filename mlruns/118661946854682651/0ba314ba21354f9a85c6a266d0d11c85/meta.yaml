@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/118661946854682651/0ba314ba21354f9a85c6a266d0d11c85/artifacts
+deleted_time: 1741481940752
+end_time: 1741481420084
+entry_point_name: ''
+experiment_id: '118661946854682651'
+lifecycle_stage: deleted
+run_id: 0ba314ba21354f9a85c6a266d0d11c85
+run_name: dashing-worm-44
+run_uuid: 0ba314ba21354f9a85c6a266d0d11c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741481390334
+status: 3
+tags: []
+user_id: USUARIO
