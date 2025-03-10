@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/4f9e64e54f7148e19f97283af85f4dba/artifacts
+end_time: 1741539294826
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 4f9e64e54f7148e19f97283af85f4dba
+run_name: receptive-owl-672
+run_uuid: 4f9e64e54f7148e19f97283af85f4dba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539251301
+status: 3
+tags: []
+user_id: USUARIO

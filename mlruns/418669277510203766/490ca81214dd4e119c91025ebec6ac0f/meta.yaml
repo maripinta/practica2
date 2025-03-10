@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/490ca81214dd4e119c91025ebec6ac0f/artifacts
+end_time: 1741539067482
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 490ca81214dd4e119c91025ebec6ac0f
+run_name: fun-perch-271
+run_uuid: 490ca81214dd4e119c91025ebec6ac0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539021791
+status: 3
+tags: []
+user_id: USUARIO

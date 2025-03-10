@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/7032745bc8b04a708cac46577ebd61fd/artifacts
+end_time: 1741539713179
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 7032745bc8b04a708cac46577ebd61fd
+run_name: useful-lynx-915
+run_uuid: 7032745bc8b04a708cac46577ebd61fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539666857
+status: 3
+tags: []
+user_id: USUARIO

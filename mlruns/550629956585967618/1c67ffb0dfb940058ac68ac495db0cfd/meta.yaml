@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/550629956585967618/1c67ffb0dfb940058ac68ac495db0cfd/artifacts
+end_time: 1741573570428
+entry_point_name: ''
+experiment_id: '550629956585967618'
+lifecycle_stage: active
+run_id: 1c67ffb0dfb940058ac68ac495db0cfd
+run_name: Naive Bayes
+run_uuid: 1c67ffb0dfb940058ac68ac495db0cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741573561667
+status: 3
+tags: []
+user_id: USUARIO

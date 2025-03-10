@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/550629956585967618/b43e2b59e25c41a08c61de910e9e715c/artifacts
+deleted_time: 1741541106785
+end_time: 1741538810702
+entry_point_name: ''
+experiment_id: '550629956585967618'
+lifecycle_stage: deleted
+run_id: b43e2b59e25c41a08c61de910e9e715c
+run_name: bright-shrew-143
+run_uuid: b43e2b59e25c41a08c61de910e9e715c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741538405349
+status: 3
+tags: []
+user_id: USUARIO

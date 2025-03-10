@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/13d5c36d296e47b99e256a7dd27cc90d/artifacts
+end_time: 1741539652333
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 13d5c36d296e47b99e256a7dd27cc90d
+run_name: useful-fox-180
+run_uuid: 13d5c36d296e47b99e256a7dd27cc90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539603746
+status: 3
+tags: []
+user_id: USUARIO

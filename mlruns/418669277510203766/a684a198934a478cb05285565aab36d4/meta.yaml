@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/a684a198934a478cb05285565aab36d4/artifacts
+end_time: 1741539713179
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: a684a198934a478cb05285565aab36d4
+run_name: inquisitive-doe-70
+run_uuid: a684a198934a478cb05285565aab36d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539666857
+status: 3
+tags: []
+user_id: USUARIO

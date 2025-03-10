@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/550629956585967618/5ee7942fee3b45989088b7a91c7c3beb/artifacts
+deleted_time: 1741547872083
+end_time: 1741545240394
+entry_point_name: ''
+experiment_id: '550629956585967618'
+lifecycle_stage: deleted
+run_id: 5ee7942fee3b45989088b7a91c7c3beb
+run_name: Decision Tree (#3)
+run_uuid: 5ee7942fee3b45989088b7a91c7c3beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741545232466
+status: 3
+tags: []
+user_id: USUARIO

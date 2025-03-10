@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/550629956585967618/00a053b975034849bde3e76c24187a4a/artifacts
+deleted_time: 1741572889442
+end_time: 1741572192596
+entry_point_name: ''
+experiment_id: '550629956585967618'
+lifecycle_stage: deleted
+run_id: 00a053b975034849bde3e76c24187a4a
+run_name: XGBClassifier2
+run_uuid: 00a053b975034849bde3e76c24187a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741572183481
+status: 4
+tags: []
+user_id: USUARIO

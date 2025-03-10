@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/322914b932904f3b804728c78e8f8199/artifacts
+end_time: 1741539294826
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 322914b932904f3b804728c78e8f8199
+run_name: judicious-yak-151
+run_uuid: 322914b932904f3b804728c78e8f8199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539251301
+status: 3
+tags: []
+user_id: USUARIO

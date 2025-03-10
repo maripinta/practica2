@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/2d907b777881468f84ec3d25423e2e72/artifacts
+end_time: 1741538815454
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 2d907b777881468f84ec3d25423e2e72
+run_name: polite-fox-875
+run_uuid: 2d907b777881468f84ec3d25423e2e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741538810727
+status: 3
+tags: []
+user_id: USUARIO

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/fe41bae62ed945b78f5fe5c6e0a61e39/artifacts
+end_time: 1741539666782
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: fe41bae62ed945b78f5fe5c6e0a61e39
+run_name: sedate-dove-556
+run_uuid: fe41bae62ed945b78f5fe5c6e0a61e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539660613
+status: 3
+tags: []
+user_id: USUARIO

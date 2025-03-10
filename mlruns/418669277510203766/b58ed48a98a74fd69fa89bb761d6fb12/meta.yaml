@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/b58ed48a98a74fd69fa89bb761d6fb12/artifacts
+end_time: 1741539652333
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: b58ed48a98a74fd69fa89bb761d6fb12
+run_name: righteous-crow-758
+run_uuid: b58ed48a98a74fd69fa89bb761d6fb12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539603746
+status: 3
+tags: []
+user_id: USUARIO

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/1f0439211a4a40ada07d334f6fff919d/artifacts
+end_time: 1741539067482
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 1f0439211a4a40ada07d334f6fff919d
+run_name: capable-moose-477
+run_uuid: 1f0439211a4a40ada07d334f6fff919d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539021791
+status: 3
+tags: []
+user_id: USUARIO

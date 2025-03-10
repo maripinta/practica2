@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/550629956585967618/725de75842604dc581d6e14c13434452/artifacts
+deleted_time: 1741541106775
+end_time: 1741537440368
+entry_point_name: ''
+experiment_id: '550629956585967618'
+lifecycle_stage: deleted
+run_id: 725de75842604dc581d6e14c13434452
+run_name: Random Forest 3
+run_uuid: 725de75842604dc581d6e14c13434452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741537440316
+status: 3
+tags: []
+user_id: USUARIO

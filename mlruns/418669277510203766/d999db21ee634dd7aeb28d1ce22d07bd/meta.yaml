@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/d999db21ee634dd7aeb28d1ce22d07bd/artifacts
+end_time: 1741539294826
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: d999db21ee634dd7aeb28d1ce22d07bd
+run_name: chill-eel-245
+run_uuid: d999db21ee634dd7aeb28d1ce22d07bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539251301
+status: 3
+tags: []
+user_id: USUARIO

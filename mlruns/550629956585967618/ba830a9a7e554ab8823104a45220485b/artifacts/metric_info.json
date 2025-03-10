@@ -1,0 +1,6 @@
+{
+  "accuracy_score_train_data": "accuracy_score(y_true=train_labels, y_pred=train_predictions)",
+  "f1_score_train_data": "f1_score(y_true=train_labels, y_pred=train_predictions)",
+  "precision_score_train_data": "precision_score(y_true=train_labels, y_pred=train_predictions)",
+  "recall_score_train_data": "recall_score(y_true=train_labels, y_pred=train_predictions)"
+}

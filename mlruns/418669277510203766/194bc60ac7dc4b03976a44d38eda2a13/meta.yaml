@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MARITZA/ACTIVIDAD%20PRACTICA%202/mlruns/418669277510203766/194bc60ac7dc4b03976a44d38eda2a13/artifacts
+end_time: 1741539067797
+entry_point_name: ''
+experiment_id: '418669277510203766'
+lifecycle_stage: active
+run_id: 194bc60ac7dc4b03976a44d38eda2a13
+run_name: spiffy-bat-612
+run_uuid: 194bc60ac7dc4b03976a44d38eda2a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741539021791
+status: 3
+tags: []
+user_id: USUARIO

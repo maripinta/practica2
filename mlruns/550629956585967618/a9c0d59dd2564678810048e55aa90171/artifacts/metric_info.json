@@ -1,0 +1,5 @@
+{
+  "accuracy_score-2_test_data": "accuracy_score(y_true=test_labels, y_pred=prediction)",
+  "accuracy_score-3_test_data": "accuracy_score(y_true=test_labels, y_pred=prediction)",
+  "accuracy_score_test_data": "accuracy_score(y_true=test_labels, y_pred=prediction)"
+}
