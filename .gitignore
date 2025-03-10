@@ -1,2 +1,3 @@
 "mlruns/" 
 "*.tmp" 
+/datos_nuevos.csv
